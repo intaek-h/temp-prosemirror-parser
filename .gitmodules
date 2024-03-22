@@ -1,0 +1,5 @@
+[submodule "integration-editors"]
+	path = integration-editors
+	url = git@bitbucket.org:medistream-team/integration-editors.git
+[submodule "main"]
+	branch = origin/hotfix/0.4.9
